@@ -1,1 +1,2 @@
-# DeapLearning-Class
+# 2024년 2학기 딥러닝및실습 과목 제출 리포지토리입니다.
+homework와 관련하여 각종 ipynb 파일이 업로드 됩니다.
